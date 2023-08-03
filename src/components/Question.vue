@@ -44,7 +44,9 @@ const emitSelectedOption = (isCorrect) => {
     }
 
     .option-label{
-        background-color: red;
+        border-radius: 15px;
+        padding: 10px;
+        background-color: bisque;
         width: 50px;
         height: 50px;
         font-size: 30px;
